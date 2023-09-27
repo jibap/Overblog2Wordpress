@@ -1,5 +1,5 @@
 # Overblog2Wordpress
-Scripts et autres fichiers de configuration pour effectuer une migration depuis Overblog vers Wordpress.
+Script et fichier de configuration pour effectuer une migration depuis Overblog vers Wordpress.
 
 ## Pour ceux qui souhaitent transférer leur blog OverBlog sur un WordPress !
 
